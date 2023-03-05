@@ -5,6 +5,7 @@ To do:
 - clean up the main function
 - work on detection algorithm (make it less computational complexity)
 - fix bugs
-![Zrzut ekranu 2023-03-05 121207](https://user-images.githubusercontent.com/103827892/222957209-795f1135-b9e2-4375-abfc-4b262328658d.png)
 
-![Zrzut ekranu 2023-03-05 121317](https://user-images.githubusercontent.com/103827892/222957217-465f2563-bead-4f66-b113-90259e3ac42b.png)
+![menu](https://user-images.githubusercontent.com/103827892/222957326-ab1b15b1-bc75-46a1-b763-ce870d41f43b.png)
+
+![game](https://user-images.githubusercontent.com/103827892/222957329-ac6a5304-ad26-4b9a-ab9a-60e43f879e0b.png)
