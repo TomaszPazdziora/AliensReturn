@@ -9,12 +9,8 @@ To do:
 
 Main menu: 
 
-<p align="center">
-  ![menu](https://user-images.githubusercontent.com/103827892/222957326-ab1b15b1-bc75-46a1-b763-ce870d41f43b.png)
-</p>
+![menu](https://user-images.githubusercontent.com/103827892/222957326-ab1b15b1-bc75-46a1-b763-ce870d41f43b.png)
 
 Game: 
 
-<p align="center">
-  ![game](https://user-images.githubusercontent.com/103827892/222957329-ac6a5304-ad26-4b9a-ab9a-60e43f879e0b.png)
-</p>
+![game](https://user-images.githubusercontent.com/103827892/222957329-ac6a5304-ad26-4b9a-ab9a-60e43f879e0b.png)
